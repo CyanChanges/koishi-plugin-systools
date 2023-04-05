@@ -1,0 +1,25 @@
+{
+  "name": "koishi-plugin-systools",
+  "description": "系统助手(从kivibot系插件重构的, 我是原来插件的开发者, oicq炸了以后转koishi了)",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "GPL3.0",
+  "scripts": {
+    "test": "src\\index.ts"
+  },
+  "author": "爱喝牛奶の涛哥",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "systools"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.6"
+  }
+}
