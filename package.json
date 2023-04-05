@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-systools",
   "description": "系统助手(从kivibot系插件重构的, 我是原来插件的开发者, oicq炸了以后转koishi了)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -21,5 +21,9 @@
   ],
   "peerDependencies": {
     "koishi": "^4.11.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuhansan666/koishi-plugin-systools.git"
   }
 }
