@@ -6,3 +6,5 @@
 > kivibot系机器人插件仓库（已经弃用了): [github](https://github.com/zhuhansan666/kivibot-plugin-systools), [npmjs](https://www.npmjs.com/package/pupbot-plugin-systool)
 
 ### 用于运行系统命令, 详见 `help cmd`
+
+Fork from very early version of zhuhansan666/koishi-plugin-systools
